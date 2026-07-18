@@ -1,0 +1,38 @@
+---
+title: "Google Shopping Ads Certification Part 1: Foundations & Requirements"
+author: "Grace Sen"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Screenshot showing completion of all three assigned Skillshop modules
+
+![](image.png)
+
+# CPP Farm Store Application Reflection
+
+After completing these 3 Google Skillshop modules, I have a much better understanding of how Google Shopping Ads help retailers connect with customers. Before this, I didn't realize how important product information is in determining whether customers will even click on a product. Seeing images, prices, and product details directly in Google Search makes shopping much easier, especially for people who don't already know about a business.
+
+I think Google Shopping Ads could really help CPP Farm Store reach more people. Right now, many students, especially new students, and even people in the local community probably don't know what the Farm Store sells. If someone searches for terms like "fruit gift basket," "local honey," or "fresh produce near me," the Farm Store could appear in the search results with product photos and prices. That would make it much easier for new customers to discover the store instead of only relying on people who already know about the store.
+
+The customer group that would benefit the most is students, faculty, staff, and local residents who like shopping online before deciding where to buy. Most people check Google first when they're looking for a product, so having the Farm Store's products appear in Shopping Ads would make them much easier to find. This could be really helpful during the holiday season when customers are searching for gifts or looking for fresh local products.
+
+One thing I learned from these modules is that having good product information is just as important as having good products. CPP Farm Store would need clear product titles, detailed descriptions, high-quality images, accurate prices, and updated inventory. Since many of the Farm Store's products are seasonal, it would also be important to keep the product feed updated so customers always see the correct information. Another challenge is that maintaining all of this takes time, especially for a smaller business with limited staff like CPP Farm Store.
+
+This assignment also helped me see how everything we've done in this class connects together. My group created a Shopify Mini-Store, organized product collections, and built a Google Merchant Center product feed. At first, these felt like separate assignments, but now I understand they're all part of the same process of running a online retailing store. The product titles, images, descriptions, and landing pages we created are exactly what Google uses to display Shopping Ads.
+
+Overall, these modules showed me that successful online marketing isn't just about running ads, it's also about providing accurate product information and creating a smooth shopping experience from search all the way to the checkout page.
+
+# Appendix
+
+GitHub Repo: <https://github.com/gracesen/IBM-6300-GSA>\
+GitHub Pages: <https://gracesen.github.io/IBM-6300-GSA/>
